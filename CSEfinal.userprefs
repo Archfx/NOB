@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="CSEfinal.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\UpdateGPSText.cs">
+    <Files>
+      <File FileName="Assets\Scripts\exchangescene.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Motion.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BackgroundOff.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NoARPlease.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UpdateGPSText.cs" Line="42" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
